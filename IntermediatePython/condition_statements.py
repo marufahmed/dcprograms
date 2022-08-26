@@ -1,5 +1,8 @@
+import numpy as np 
 import time
-for x in range(1000) : 
+#Fix this program so that it doesn't print only one number
+x = np.random.randint(1,999999999999)
+while x > 0 : 
 	if x%2 == 0 :
 		print(x)
 		print( 'which is even')
