@@ -19,11 +19,10 @@ print(dice)
 print(step)
 """
 import numpy as np 
-import time
-step = 1000
-if step > 1:
-	print(step)
-	step = step - 1 
-	print(np.random.randint(1,1000)
-    	#time.sleep(1/100)
-print('end of program')
+x = 1000
+while x > 1 :
+	print(x)
+	x = x -1
+	y = np.random.randint(0,x)
+	print(',')
+	print(y)
