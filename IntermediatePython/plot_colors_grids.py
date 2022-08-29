@@ -30,3 +30,7 @@ print(gdp_cap)
 print(life_exp)
 print(pop)
 print(col)
+
+#%%
+
+#%%

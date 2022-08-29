@@ -8,7 +8,7 @@ life_exp=[43.828, 76.423, 72.301, 42.731, 75.32, 81.235, 79.829, 75.635, 64.062,
 
 # Basic scatter plot, log scale
 plt.scatter(gdp_cap, life_exp)
-plt.xscale('log') 
+plt.xscale('log')
 
 # Strings
 xlab = 'GDP per Capita [in USD]'
@@ -28,3 +28,5 @@ plt.show()
 
 print(gdp_cap)
 print(life_exp)
+
+#%%

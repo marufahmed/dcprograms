@@ -17,3 +17,5 @@ plt.clf()
 
 print(life_exp)
 
+
+#%%

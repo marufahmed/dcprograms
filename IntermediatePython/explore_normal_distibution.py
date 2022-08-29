@@ -8,3 +8,5 @@ while y > 1 :
 
 print(x)
 plt.hist(x)
+
+#%%
